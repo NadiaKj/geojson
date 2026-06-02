@@ -5837,6 +5837,7 @@
       "type": "Feature",
       "properties": {
         "region": "Centre",
+        "code": "23",
         "departements": [
           "71",
           "63",
@@ -14973,6 +14974,7 @@
       "type": "Feature",
       "properties": {
         "region": "IDF Est",
+        "code": "24",
         "departements": [
           "94",
           "93",
@@ -16242,6 +16244,7 @@
       "type": "Feature",
       "properties": {
         "region": "IDF Ouest",
+        "code": "8",
         "departements": [
           "95",
           "92",
@@ -16768,6 +16771,7 @@
       "type": "Feature",
       "properties": {
         "region": "IDF Sud",
+        "code": "25",
         "departements": [
           "91",
           "45",
